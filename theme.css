@@ -1,0 +1,120 @@
+body {
+height:100%;
+background-image:url(patterns.png);
+margin:0;
+padding:0;
+}
+
+#white {
+background-color:#FFF;
+height:150px;
+}
+
+#title {
+padding:30px;
+margin-top:30px;
+}
+
+h1,h2,h3,h4 {
+display:inline;
+}
+
+.navy {
+font-family:Montserrat, san-serif;
+font-weight:700;
+color:#262262;
+letter-spacing:2px;
+padding:2px;
+}
+
+.white {
+font-family:Montserrat, san-serif;
+font-weight:700;
+color:#FFF;
+letter-spacing:2px;
+padding:2px;
+}
+
+.navy2 {
+font-family:Fanwood;
+font-style:italic;
+position:relative;
+top:-5px;
+color:#262262;
+}
+
+.lblue {
+font-family:Montserrat, san-serif;
+font-weight:700;
+color:#01b8d9;
+letter-spacing:2px;
+padding:2px;
+}
+
+.lblue2 {
+font-family:Fanwood;
+font-style:italic;
+position:relative;
+top:-5px;
+color:#01b8d9;
+}
+
+#what {
+color:#01b8d9;
+text-align:center;
+position:relative;
+top:150px;
+}
+
+#buttonbox {
+position:relative;
+top:200px;
+height:300px;
+width:850px;
+
+margin:0 auto;
+}
+
+.button {
+float:left;
+width:270px;
+height:100px;
+background-color:#FFF;
+display:table;
+margin:5px;
+}
+
+.githubButton{
+float:left;
+width:270px;
+height:50px;
+background-color:#FFF;
+display:table;
+margin:5px;
+}
+
+.button h4, .githubButton h5 {
+display:table-cell;
+vertical-align:middle;
+text-align:center;
+}
+
+.button:hover, .githubButton:hover {
+background-color:#0d004c;
+}
+
+
+.button h4:hover,.githubButton h5:hover {
+color:#FFF;
+cursor:pointer;
+}
+
+
+
+#photo {
+	height: 130px;
+	position:absolute;
+	top:30px;
+	right:0px;
+	padding:10px;
+}
