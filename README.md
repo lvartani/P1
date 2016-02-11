@@ -2,17 +2,16 @@
 Project 1
 
 ## Live URL
-<http://>
+<http://p1.loosine.com/>
 
 ## Description
-Portfolio layout for the upcoming class projects. 
+Here is my portfolio layout for the upcoming class projects. 
 
 ## Demo
-<https://www.youtube.com/watch?v=RoqrD9ZD0N4&feature=youtu.be>
+<http://www.screencast.com/t/8CGg7Nfyf>
 
 ## Details for teaching team
-
+Check out loosine.com for my previous work.
 
 ## Outside code
 * Google Fonts http://fonts.googleapis.com/
-* Bootstrap: http://getbootstrap.com/
