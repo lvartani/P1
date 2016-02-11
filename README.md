@@ -5,7 +5,7 @@ Project 1
 <http://p1.loosine.com/>
 
 ## Description
-My portfolio layout for the upcoming class projects. 
+My portfolio layout for the upcoming class projects. I used HTML and CSS.
 
 ## Demo
 <http://www.screencast.com/t/8CGg7Nfyf>
