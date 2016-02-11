@@ -11,7 +11,7 @@ Here is my portfolio layout for the upcoming class projects.
 <http://www.screencast.com/t/8CGg7Nfyf>
 
 ## Details for teaching team
-Check out loosine.com for my previous work.
+Used my previous domain (loosine.com)
 
 ## Outside code
 * Google Fonts http://fonts.googleapis.com/
