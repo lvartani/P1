@@ -5,7 +5,7 @@ Project 1
 <http://p1.loosine.com/>
 
 ## Description
-Here is my portfolio layout for the upcoming class projects. 
+My portfolio layout for the upcoming class projects. I used HTML and CSS.
 
 ## Demo
 <http://www.screencast.com/t/8CGg7Nfyf>
@@ -15,3 +15,4 @@ Used my previous domain (loosine.com)
 
 ## Outside code
 * Google Fonts http://fonts.googleapis.com/
+* The background tiles are from City of Boston designer Sebastian Ebarb
